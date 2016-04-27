@@ -1,0 +1,33 @@
+Bootstrap4 Template - Static Test Setup
+
+Sass
+
+    For command line SASS compiler:
+
+        from within assets/scss :
+
+        sass --watch app.scss:../css/styles.css
+
+Folder Structure
+
+        Root
+        |
+        |== Boostrap4 Template.txt
+        |
+        |== _template.html  [Copy this file and rename]
+        |
+        |-- assets
+        |---- css
+        |---- fonts [Font Awesome]
+        |---- img
+        |---- scss
+        |
+        |--bower_components
+        |----bootstrap
+        |------scss
+        |--------mixins
+        |----jquery
+
+
+
+
